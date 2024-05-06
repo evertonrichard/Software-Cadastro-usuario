@@ -1,0 +1,20 @@
+{
+  "series": [
+    {
+      "id": "913f",
+      "nomeUsuario": "Everton Richard da silva",
+      "idade": "22",
+      "endereco": "São Paulo - SP",
+      "email": "evertonrichard444@gmail.com",
+      "telefone": "11968128231"
+    },
+    {
+      "id": "7322",
+      "nomeUsuario": "Everton Richard",
+      "idade": "19",
+      "endereco": "São Paulo - SP",
+      "email": "evertonrichard444@gmail.com",
+      "telefone": "11968128232"
+    }
+  ]
+}
